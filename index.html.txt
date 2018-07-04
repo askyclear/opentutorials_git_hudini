@@ -1,7 +1,8 @@
 <html>
 <body>
 	<head>
-		<title>Git</title>
+		<meta charset="UTF-8"/>
+		<title>Git ¼ö¾÷</title>
 	</head>
 	<header>
 		<h1>Git<h1/>
