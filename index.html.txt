@@ -8,6 +8,7 @@
 		<h1>Git<h1/>
 	</header>
 	<ul>
+		<li>sync.egoing</li>
 		<li>Git 이란?</li>
 		<li>Version 이란?</li>
 		<li>Branch</li>
