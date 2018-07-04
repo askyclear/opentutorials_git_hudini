@@ -1,6 +1,7 @@
 <html>
 <body>
 	<head>
+		<title>Git</title>
 	</head>
 	<header>
 		<h1>Git<h1/>
